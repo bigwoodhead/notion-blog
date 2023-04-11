@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Bit by Bit',
-  domain: 'blog.innovatenow.one',
+  domain: '',
   author: '',
 
   // open graph metadata (optional)
